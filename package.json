@@ -1,0 +1,23 @@
+{
+  "name": "live01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexcastroDev/express-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexcastroDev/express-vercel/issues"
+  },
+  "homepage": "https://github.com/AlexcastroDev/express-vercel#readme"
+}
